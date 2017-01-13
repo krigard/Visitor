@@ -139,8 +139,20 @@ var templates = {
 		    <input type="text" class="form-control" id="lastName" placeholder="Last Name" ng-model="lastName">\
 		  </div>\
 		<div class="form-group">\
-		    <label for="purpose">Purpose of the Visit</label>\
-		    <input type="text" class="form-control" id="purpose" placeholder="Purpose of the Visit" ng-model="purpose">\
+		    <label for="purpose">Your host</label>\
+		    <input type="text" class="form-control" id="purpose" placeholder="Your host" ng-model="purpose">\
+		  </div>\
+<div class="form-group">\
+		    <label for="Company">Company</label>\
+		    <input type="text" class="form-control" id="Company" placeholder="Company" ng-model="Company">\
+		  </div>\
+<div class="form-group">\
+		    <label for="Mob_nr">Mobile number</label>\
+		    <input type="text" class="form-control" id="Mob_nr" placeholder="Your mobile number" ng-model="Mob_nr">\
+		  </div>\
+<div class="form-group">\
+		    <label for="Badge_nr">Badge number</label>\
+		    <input type="text" class="form-control" id="Badge_nr" placeholder="Badge number" ng-model="Badge_nr">\
 		  </div>\
 		<div><center><button type="button" class="btn btn-default" ng-click="doCancel()">Cancel</button>&nbsp;<button type="submit" class="btn btn-primary">Submit</button></center></div>\
 		  </div>\
@@ -158,7 +170,8 @@ var templates = {
 <script src="//code.angularjs.org/1.4.9/angular.js"></script>
 <script src="//code.angularjs.org/1.4.9/angular-route.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<style>
+
+	<style>
 	.operations {
 		padding:70px 0px;
 	}
@@ -168,20 +181,29 @@ var templates = {
 	}
 
 </style>
-<div ng-app="visitors">
-	<nav class="navbar navbar-inverse">
-  		<div class="container-fluid"> 
-			<div class="navbar-header">
-				<a class="navbar-brand" href="#">
-	   				<img class="logo" src="https://tpp.servicenow.com/images/logo/servicenow.png" /> Visitors
+
+	<div ng-app="visitors">
+		<br>
+		</br>
+		<center><img src="IKEA_Industry_small.png" width="320" height="49"/></center>
+		<br>
+		</br>
+<!--
+        <nav class="navbar navbar-inverse">
+  		   <div class="container-fluid"> 
+                <div class="navbar-header">		
+                 <a class="navbar-brand" href="#">
+	   				   IKEA Industry visitors
 				</a>
 			</div>
   		</div>
 	</nav>
+-->
 	<div class="row">
 		<div class="col-md-offset-4 col-md-4" ng-view=""></div>
 	</div>
 </div>
+
 
 <g:evaluate object="true">
     var session = gs.getSession(); 
@@ -198,7 +220,7 @@ var templates = {
         <sys_created_on>2016-05-20 17:38:05</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>eba7d8854fa3120010134d6e0210c7d8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_name>Visitor Manager</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
@@ -206,6 +228,6 @@ var templates = {
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_ui_page_eba7d8854fa3120010134d6e0210c7d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-20 17:46:16</sys_updated_on>
+        <sys_updated_on>2017-01-13 20:06:17</sys_updated_on>
     </sys_ui_page>
 </record_update>

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Visitors" max_length="40" name="x_snc_k16_visitor_visitors" type="collection">
+        <element label="Badge_nr" max_length="40" name="badge_nr" type="string"/>
+        <element label="Company" max_length="40" name="company" type="string"/>
         <element label="First Name" max_length="255" name="first_name" type="string"/>
+        <element label="Host" max_length="40" name="host" type="string"/>
         <element label="Last Name" max_length="255" name="last_name" type="string"/>
+        <element label="Mob_nr" max_length="40" name="mob_nr" type="string"/>
         <element label="Purpose" max_length="255" name="purpose" type="string"/>
         <element label="Signed Out" max_length="40" name="signed_out" type="boolean"/>
     </element>
