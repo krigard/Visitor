@@ -6,8 +6,12 @@
         <element label="First Name" max_length="255" name="first_name" type="string"/>
         <element label="Host" max_length="40" name="host" type="string"/>
         <element label="Last Name" max_length="255" name="last_name" type="string"/>
+        <element default="javascript:gs.getUser().getLocation()" dynamic_default_value="411d3e7adb943200290f5ec0cf9619bb" label="Location" max_length="32" name="location" reference="cmn_location" type="reference" use_dynamic_default="true"/>
         <element label="Mob_nr" max_length="40" name="mob_nr" type="string"/>
         <element label="Purpose" max_length="255" name="purpose" type="string"/>
         <element label="Signed Out" max_length="40" name="signed_out" type="boolean"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
     </element>
 </database>
