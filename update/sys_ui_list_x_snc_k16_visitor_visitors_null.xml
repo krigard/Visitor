@@ -133,11 +133,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-16 13:43:20</sys_created_on>
+            <sys_created_on>2017-01-18 21:48:44</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3a39aca2db103200290f5ec0cf961922</sys_id>
+            <sys_id>688ba057db1c3200290f5ec0cf961980</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_k16_visitor_visitors</sys_name>
             <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
@@ -146,8 +146,8 @@
             <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_k16_visitor_visitors_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-16 13:43:20</sys_updated_on>
-            <sys_user/>
+            <sys_updated_on>2017-01-18 21:48:44</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

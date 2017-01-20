@@ -3,23 +3,23 @@
     <sys_ui_view action="INSERT_OR_UPDATE">
         <group/>
         <hidden>false</hidden>
-        <name>rpt-tempx_snc_k16_visitor_visitorsadmin</name>
+        <name>sign_out_iii</name>
         <roles/>
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-01-12 21:04:28</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>a5d765dddb503200290f5ec0cf96193e</sys_id>
+        <sys_created_on>2017-01-18 10:34:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2541928fdb583200290f5ec0cf961991</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
+        <sys_name>Sign Out III</sys_name>
+        <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_ui_view_2541928fdb583200290f5ec0cf961991</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-12 21:04:28</sys_updated_on>
-        <title>Rpt-tempx_snc_k16_visitor_visitorsadmin</title>
+        <sys_updated_on>2017-01-18 10:34:52</sys_updated_on>
+        <title>Sign Out III</title>
         <user/>
     </sys_ui_view>
 </record_update>

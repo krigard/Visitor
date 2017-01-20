@@ -3,7 +3,7 @@
     <content_page_meta action="INSERT_OR_UPDATE">
         <content>Visitors on site</content>
         <content_page/>
-        <content_site display_value="Visitor">dfe84825db143200290f5ec0cf9619ef</content_site>
+        <content_site/>
         <name>IKEA Industry visitors</name>
         <sys_class_name>content_page_meta</sys_class_name>
         <sys_created_by>admin</sys_created_by>

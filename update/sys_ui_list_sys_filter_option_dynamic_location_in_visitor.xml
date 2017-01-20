@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_filter_option_dynamic" version="2" view="location_in_visitor">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>label</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>a2a74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>script</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>26a74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>a6a74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>2aa74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>roles</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>aaa74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>available_for_filter</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>2ea74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>available_for_default</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>aea74e0fdb583200290f5ec0cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>available_for_ref_qual</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>22a74e0fdb583200290f5ec0cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>field_type</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>a2a74e0fdb583200290f5ec0cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sys_filter_option_dynamic" element="NULL" name="sys_filter_option_dynamic" parent="NULL" relationship="NULL" sys_domain="global" view="e2a74e0fdb583200290f5ec0cf96198f">6ea74e0fdb583200290f5ec0cf96198f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_id>26a74e0fdb583200290f5ec0cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_filter_option_dynamic</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-18 09:52:53</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ea74e0fdb583200290f5ec0cf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_filter_option_dynamic</sys_name>
+            <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
+            <sys_update_name>sys_ui_list_sys_filter_option_dynamic_location_in_visitor</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-18 09:52:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Location in Visitor" name="location_in_visitor">e2a74e0fdb583200290f5ec0cf96198f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
