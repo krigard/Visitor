@@ -148,8 +148,6 @@ var templates = {
 		<label for="lastName">Last Name</label>\
 		<input type="text" class="form-control" id="lastName" placeholder="Last Name" ng-model="lastName">\
 		</div>\
-<input id="user_query" type="hidden" value="${jvar_user_query}" />\
-<g:ui_reference name="${jvar_user_query}" table="sys_user" />\
 		<div class="form-group">\
 		<label for="host">Host</label>\
 		<input type="id" class="form-control" id="host" placeholder="Your host" ng-model="host">\
@@ -172,12 +170,7 @@ var templates = {
 		</div></form>';
 	}
 };
-function setPlaceholderText()  
-{  
-  var el = gel('sys_display.QUERY:u_locationISNOTEMPTY');  
-  if (el)  
-  el.placeholder = "Choose a site...";  
-} ]]></client_script>
+]]></client_script>
         <description/>
         <direct>true</direct>
         <endpoint>x_snc_k16_visitor_VisitorManager.do</endpoint>
@@ -228,8 +221,7 @@ function setPlaceholderText()
 	<div class="row">
 		<div class="col-md-offset-4 col-md-4" ng-view=""></div>
 	</div>
-</div>
-<j:set var="jvar_user_query" value="QUERY:active=true^locked_out=false" /> 
+</div> 
 <g:evaluate object="true">
     var session = gs.getSession(); 
 	var token = session.getSessionToken();
@@ -247,7 +239,7 @@ function setPlaceholderText()
         <sys_created_on>2016-05-20 17:38:05</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>eba7d8854fa3120010134d6e0210c7d8</sys_id>
-        <sys_mod_count>97</sys_mod_count>
+        <sys_mod_count>99</sys_mod_count>
         <sys_name>VisitorManager</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
@@ -255,6 +247,6 @@ function setPlaceholderText()
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_ui_page_eba7d8854fa3120010134d6e0210c7d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-19 20:59:03</sys_updated_on>
+        <sys_updated_on>2017-01-23 10:04:07</sys_updated_on>
     </sys_ui_page>
 </record_update>
