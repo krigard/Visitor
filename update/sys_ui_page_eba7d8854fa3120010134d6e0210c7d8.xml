@@ -142,11 +142,11 @@ var templates = {
 		<div class="panel-body">\
 		<div class="form-group">\
 		<label for="firstName">First Name</label>\
-		<input type="text" class="form-control" id="firstName" placeholder="First Name" ng-model="firstName">\
+		<input type="text" class="form-control" id="firstName" required="true" placeholder="First Name" ng-model="firstName">\
 		</div>\
 		<div class="form-group">\
 		<label for="lastName">Last Name</label>\
-		<input type="text" class="form-control" id="lastName" placeholder="Last Name" ng-model="lastName">\
+		<input type="text" class="form-control" id="lastName" required="true" placeholder="Last Name" ng-model="lastName">\
 		</div>\
 		<div class="form-group">\
 		<label for="host">Host</label>\
@@ -238,7 +238,7 @@ var templates = {
         <sys_created_on>2016-05-20 17:38:05</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>eba7d8854fa3120010134d6e0210c7d8</sys_id>
-        <sys_mod_count>106</sys_mod_count>
+        <sys_mod_count>114</sys_mod_count>
         <sys_name>VisitorManager</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
@@ -246,6 +246,6 @@ var templates = {
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_ui_page_eba7d8854fa3120010134d6e0210c7d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-27 08:30:15</sys_updated_on>
+        <sys_updated_on>2017-01-30 09:25:15</sys_updated_on>
     </sys_ui_page>
 </record_update>
