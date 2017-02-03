@@ -125,16 +125,16 @@ visitorManager.controller('signOutController', ['$scope', '$location', '$log', '
 
 var templates = {
 	getOperationsTemplate: function() {
-		return '<div class="operations"><button type="button" class="btn btn-primary btn-lg btn-block" ng-click="doSignIn()">Visitor Sign In</button>\
-		<button type="button" class="btn btn-primary btn-lg btn-block" ng-click="doSignOut()">Visitor Sign Out</button></div>';
+		return '<div class="operations"><button type="button" class="btn btn-primary btn-lg btn-block ikeaColor" ng-click="doSignIn()">Visitor Sign In</button>\
+		<button type="button" class="btn btn-primary btn-lg btn-block ikeaColor" ng-click="doSignOut()">Visitor Sign Out</button></div>';
 	},
 	getSignOutTemplate: function() {
 		return '<div class="panel panel-primary">\
-		<div class="panel-heading">Visitor Sign Out</div>\
+		<div class="panel-heading ikeaColor">Visitor Sign Out</div>\
 		<div class="panel-body">\
-		<table class="table table-striped"><tr><th>First Name</th><th>Last Name</th><th>Operation</th></tr><tr ng-repeat="visitor in visitors"><td>{{visitor.first_name}}</td><td>{{visitor.last_name}}</td><td><button type="button" class="btn btn-info btn-sm" ng-click="doSignOut(visitor.sys_id)">Sign Out</button></td></tr>\
+		<table class="table table-striped"><tr><th>First Name</th><th>Last Name</th><th>Operation</th></tr><tr ng-repeat="visitor in visitors"><td>{{visitor.first_name}}</td><td>{{visitor.last_name}}</td><td><button type="button" class="btn btn-info btn-sm ikeaColor" ng-click="doSignOut(visitor.sys_id)">Sign Out</button></td></tr>\
 		<tr ng-if="visitors.length == 0"><td colspan="3">No Current Visitors</td></tr></table>\
-		<div><center><button type="button" class="btn btn-default" ng-click="doCancel()">Go back</button></center></div></div></div></div>';
+		<div><center><button type="button" class="btn btn-default ikeaColor" ng-click="doCancel()">Go back</button></center></div></div></div></div>';
 	},
 	getSignInTemplate: function() {
 		return '<form name="visitorForm" ng-submit="doSubmit()"><div class="panel panel-primary">\
@@ -164,7 +164,7 @@ var templates = {
 		<label for="badge_nr">Badge number</label>\
 		<input type="text" class="form-control" id="badge_nr" placeholder="Badge number" ng-model="badge_nr">\
 		</div>\
-		<div><center><button type="button" class="btn btn-default" ng-click="doCancel()">Cancel</button>&nbsp;<button type="submit" class="btn btn-primary">Submit</button></center></div>\
+		<div><center><button type="button" class="btn btn-default" ng-click="doCancel()">Cancel</button>&nbsp;<button type="submit" class="btn btn-primary ikeaColor">Submit</button></center></div>\
 		</div>\
 		</div>\
 		</div></form>';
@@ -197,7 +197,12 @@ var templates = {
 	.logo {
 		max-height:30px;
 	}
-
+	.ikeaColor{
+		background-color:#407AB1;
+	}
+	.ikeaColor:hover{
+		background-color:#80bfff;
+		}
 </style>
 
 	<div ng-app="visitors">
@@ -238,14 +243,14 @@ var templates = {
         <sys_created_on>2016-05-20 17:38:05</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>eba7d8854fa3120010134d6e0210c7d8</sys_id>
-        <sys_mod_count>114</sys_mod_count>
+        <sys_mod_count>119</sys_mod_count>
         <sys_name>VisitorManager</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_ui_page_eba7d8854fa3120010134d6e0210c7d8</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-30 09:25:15</sys_updated_on>
+        <sys_updated_by>Spoc.Support</sys_updated_by>
+        <sys_updated_on>2017-02-01 12:50:17</sys_updated_on>
     </sys_ui_page>
 </record_update>
