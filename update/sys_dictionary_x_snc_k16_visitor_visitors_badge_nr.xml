@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-13 19:48:03</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>69fdbf8c0f743a0058d5f88ce1050ebc</sys_id>
+        <sys_id>7c94d01cdb34b2802b1ef3061d96195b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Badge_nr</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_k16_visitor_visitors_badge_nr</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-02-03 07:19:26</sys_updated_on>
+        <sys_updated_on>2017-02-03 08:58:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

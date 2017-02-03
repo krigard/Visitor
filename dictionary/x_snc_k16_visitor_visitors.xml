@@ -6,7 +6,7 @@
         <element label="First Name" max_length="255" name="first_name" type="string"/>
         <element label="Host" max_length="40" name="host" type="string"/>
         <element label="Last Name" max_length="255" name="last_name" type="string"/>
-        <element default="javascript:gs.getUser().getLocation()" dynamic_default_value="fad644d00fb43a0058d5f88ce1050e3c" label="Location" max_length="32" name="location" reference="cmn_location" type="reference" use_dynamic_default="true"/>
+        <element default="javascript:gs.getUser().getLocation()" dynamic_default_value="0d399c1cdbb4b2802b1ef3061d961967" label="Location" max_length="32" name="location" reference="cmn_location" type="reference" use_dynamic_default="true"/>
         <element label="Mob_nr" max_length="40" name="mob_nr" type="string"/>
         <element label="Signed Out" max_length="40" name="signed_out" type="boolean"/>
         <index name="index">
