@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_id</element>
-            <list_id display_value="x_snc_k16_visitor_visitors" element="NULL" name="x_snc_k16_visitor_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="4c043433db332200290f5ec0cf96197e">b0457bbadbd43200290f5ec0cf9619c6</list_id>
+            <list_id display_value="x_snc_k16_visitor_visitors" element="NULL" name="x_snc_k16_visitor_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="12956123f5221000bdd4b3728bc3abf9">b0457bbadbd43200290f5ec0cf9619c6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -29,7 +29,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-17 23:13:14</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b0457bbadbd43200290f5ec0cf9619c6</sys_id>
@@ -43,7 +43,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-17 23:13:14</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">4c043433db332200290f5ec0cf96197e</view>
+            <view display_value="Reference List" name="sys_ref_list">12956123f5221000bdd4b3728bc3abf9</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="090eff8c0f743a0058d5f88ce1050e99" sys_domain="global" table="cmn_location" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 07:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>890eff8c0f743a0058d5f88ce1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmn_location" name="cmn_location" sys_domain="global" view="Default view">090eff8c0f743a0058d5f88ce1050e99</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmn_location" sys_domain="global" view="Default view">434dba9dc0a801640003eb8a19faf7ca</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-02-03 07:19:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 07:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd0eff8c0f743a0058d5f88ce1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmn_location" name="cmn_location" sys_domain="global" view="Default view">090eff8c0f743a0058d5f88ce1050e99</sys_ui_form>
+            <sys_ui_section caption="Location_createdby" display_value="Location_createdby" name="cmn_location" sys_domain="global" view="Default view">6133acd3db1c3200290f5ec0cf9619f7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-02-03 07:19:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmn_location</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-03 07:19:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>090eff8c0f743a0058d5f88ce1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmn_location</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
+            <sys_update_name>sys_ui_form_sections_090eff8c0f743a0058d5f88ce1050e99</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-02-03 07:19:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

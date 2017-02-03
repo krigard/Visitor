@@ -5,12 +5,12 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
+        <calculation>(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]></calculation>
+})(current);</calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -25,7 +25,7 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value display_value="Get user location">411d3e7adb943200290f5ec0cf9619bb</dynamic_default_value>
+        <dynamic_default_value display_value="Get user location">fad644d00fb43a0058d5f88ce1050e3c</dynamic_default_value>
         <dynamic_ref_qual/>
         <element>location</element>
         <element_reference>false</element_reference>
@@ -52,16 +52,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-17 18:19:35</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>4a81feb6db943200290f5ec0cf9619be</sys_id>
-        <sys_mod_count>40</sys_mod_count>
+        <sys_id>e5fdbf8c0f743a0058d5f88ce1050eff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Location</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_k16_visitor_visitors_location</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-19 13:16:49</sys_updated_on>
+        <sys_updated_by>krikri</sys_updated_by>
+        <sys_updated_on>2017-02-03 08:03:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

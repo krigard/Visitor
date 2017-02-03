@@ -201,7 +201,7 @@ var templates = {
 		background-color:#407AB1;
 	}
 	.ikeaColor:hover{
-		background-color:#80bfff;
+		background-color:#037AE2;
 		}
 </style>
 
@@ -243,14 +243,14 @@ var templates = {
         <sys_created_on>2016-05-20 17:38:05</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>eba7d8854fa3120010134d6e0210c7d8</sys_id>
-        <sys_mod_count>119</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_name>VisitorManager</sys_name>
         <sys_package display_value="K16 Visitor Manager" source="x_snc_k16_visitor">730798c14fa3120010134d6e0210c707</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16 Visitor Manager">730798c14fa3120010134d6e0210c707</sys_scope>
         <sys_update_name>sys_ui_page_eba7d8854fa3120010134d6e0210c7d8</sys_update_name>
-        <sys_updated_by>Spoc.Support</sys_updated_by>
-        <sys_updated_on>2017-02-01 12:50:17</sys_updated_on>
+        <sys_updated_by>krikri</sys_updated_by>
+        <sys_updated_on>2017-02-03 07:27:24</sys_updated_on>
     </sys_ui_page>
 </record_update>

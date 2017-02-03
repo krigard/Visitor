@@ -15,7 +15,7 @@
         <sys_class_name>sys_filter_option_dynamic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-18 09:06:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a5dcbd47db583200290f5ec0cf96192a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sign Out II</sys_name>

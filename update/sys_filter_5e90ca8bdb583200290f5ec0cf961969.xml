@@ -11,7 +11,7 @@
         <sys_class_name>sys_filter</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-18 09:22:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5e90ca8bdb583200290f5ec0cf961969</sys_id>

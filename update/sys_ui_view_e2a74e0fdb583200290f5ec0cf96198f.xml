@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-18 09:52:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e2a74e0fdb583200290f5ec0cf96198f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Location in Visitor</sys_name>
